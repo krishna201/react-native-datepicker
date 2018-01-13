@@ -6,6 +6,9 @@ This repository contains a React Native project, implementing the [react-native-
 ![datepicker](./date.jpeg "Date Picker")
 
 
+[Download Apk](./app-debug.apk)
+
+
 ## Installation
 ## npm install react-native-datepicker --save
 ### Development
