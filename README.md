@@ -19,6 +19,7 @@ This repository contains a React Native project, implementing the [react-native-
 4. Run `react-native run-android`.
      or
 5. Run 'react-native run-ios'.
+6. for android there is android folder over there.
 
 #### get more detail from [react-native-datepicker](https://github.com/xgfe/react-native-datepicker).
 
